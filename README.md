@@ -1,7 +1,7 @@
 
-# AI Applications Collection
+# MASTER AI COURSE
 
-Welcome to the **AI Applications Collection** repository! This collection features a variety of AI-powered applications, each built using top-notch technologies like LangChain, OpenAI, Hugging Face, and LLAMA2. From chatbots to data analysis tools, each app has something unique to offer.
+Welcome to the ** MASTER AI COURSE ** repository! This collection features a variety of AI-powered applications, each built using top-notch technologies like LangChain, OpenAI, Hugging Face, and LLAMA2. From chatbots to data analysis tools, each app has something unique to offer.
 
 ## Applications Overview
 
@@ -77,6 +77,6 @@ Get AI-driven feedback on your code, focusing on quality and best practices.
 
 This **AI Applications Collection** demonstrates the incredible potential of AI. Each project is designed to inspire and showcase how AI can transform different industries. Dive in, explore, and maybe even get inspired for your next AI project!
 
-*"The best way to predict the future is to invent it."*
+
 
 
